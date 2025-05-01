@@ -1,0 +1,1 @@
+Büyük birader, java ile geliştirilmiş bir masaüstü uygulamasıdır. Sql veritabanını kullanır; veritabanı bağlantısının kolay olması için xampp ile yapıldı veritabanını kullanılan intellij idea sürümüne uygun olan jdk dosyaların içerisinde mevcuttur.  
